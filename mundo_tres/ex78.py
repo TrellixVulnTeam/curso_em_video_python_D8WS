@@ -15,3 +15,4 @@ for c in range(0, 5):
 print("-="*30)
 print(f"Menor valor: {menor}")
 print(f"Maior valor: {maior}")
+
